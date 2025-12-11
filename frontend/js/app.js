@@ -1541,4 +1541,4 @@ document.addEventListener('DOMContentLoaded', function() {
     if (!window.contactManager) {
         window.contactManager = new ContactManager();
     }
-});
+});// 添加联系人搜索功能优化
