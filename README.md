@@ -35,7 +35,8 @@ extreme-programming-address-book/
 - ✓ 响应式设计
 
 ## 团队成员
-- [Yungepaihuai](https://github.com/Yungepaihuai)
+李家锐 832302123  JiaRuiLi 23124890
+吴铮   832302128  ZhengWu  23125284
 
 ## 作业要求完成情况
 - [x] 基本功能实现（收藏联系人、多联系方式管理、导入导出）
