@@ -1,0 +1,46 @@
+# 前端忽略文件
+frontend/node_modules/
+frontend/.vscode/
+frontend/.DS_Store
+
+# 后端忽略文件
+backend/target/
+backend/.idea/
+backend/*.iml
+backend/.classpath
+backend/.project
+backend/.settings/
+
+# 编译输出
+*.class
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# 日志文件
+*.log
+logs/
+
+# 临时文件
+*.tmp
+*.temp
+*.bak
+*.swp
+*~
+
+# 系统文件
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# IDE文件
+.vscode/
+.idea/
+*.iml
+
+# Maven输出
+target/
