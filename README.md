@@ -44,4 +44,4 @@ extreme-programming-address-book/
 - [ ] 网页部署（可选）
 
 ## 版权信息
-© 2025 Team XP. All rights reserved.
+© 2025 Team XP. All rights reserved.## 更新功能说明
